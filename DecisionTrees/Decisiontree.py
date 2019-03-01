@@ -5,8 +5,6 @@ import pprint
 import collections
 from collections import defaultdict
 from math import log2
-'''Wenjie Shi & Yidan Xue
-'''
 class DecisionTree(object):
     ''' use ID3 as dataset classifier
     '''
